@@ -16,5 +16,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClementBartholome&label=Profile%20views&color=0e75b6&style=flat" alt="Clément Bartholomé" /> </p>
