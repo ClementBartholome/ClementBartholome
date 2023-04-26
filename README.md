@@ -20,6 +20,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://wordpress.com/fr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/> </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS / SCSS"/> </a>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClementBartholome&label=Profile%20views&color=0e75b6&style=flat" alt="Clément Bartholomé" /> </p>
