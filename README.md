@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Clément Bartholomé</h1>
 <h3 align="center">Former Web Content Writer ✍️ Retraining as a web developer 👨‍💻</h3>
 
-- I'm currently training with [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend) and other platforms like OpenClassrooms, freeCodeCamp, Codecademy...
+- I'm currently training with [OpenClassrooms] (https://openclassrooms.com/fr/paths/717-developpeur-web) and other platforms like [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), freeCodeCamp, Codecademy...
 
 - Looking for an apprenticeship opportunity in Nouvelle-Aquitaine (La Rochelle, Niort...) or remotely.
+
+- Available from november 2023.
 
 - How to reach me => clementoss@gmail.com
 
