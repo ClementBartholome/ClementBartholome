@@ -5,7 +5,7 @@
 
 - Looking for an apprenticeship opportunity in Nouvelle-Aquitaine (La Rochelle, Niort...) or remotely.
 
-- Available from october / november 2023.
+- Available from september / october 2023.
 
 - How to reach me => clementoss@gmail.com
 
