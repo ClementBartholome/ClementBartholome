@@ -28,5 +28,10 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS / SCSS"/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
+    &nbsp;&nbsp;&nbsp;
+     <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="PHP"/> </a>
+    
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClementBartholome&label=Profile%20views&color=0e75b6&style=flat" alt="Clément Bartholomé" /> </p>
