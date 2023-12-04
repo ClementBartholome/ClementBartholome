@@ -1,11 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Clément Bartholomé</h1>
 <h3 align="center">Former Web Content Writer ✍️ Retraining as a web developer 👨‍💻</h3>
 
-- I'm currently training with [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web) (Bac +2) and other platforms like [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), freeCodeCamp, Codecademy...
-
-- Looking for an apprenticeship opportunity in Nouvelle-Aquitaine (La Rochelle, Niort...) or remotely.
-
-- Available from september / october 2023.
+- I'm currently undergoing an apprenticeship with [repply](https://www.repply.fr/) and [OpenClassrooms](https://openclassrooms.com/fr/paths/882-developpeur-dapplication-back-end-net) (Bac +3/4)
+- At repply, I work with ASP.NET, Vue.js and TypeScript. 
 
 - How to reach me => clementoss@gmail.com
 
